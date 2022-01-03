@@ -7,6 +7,8 @@
   "block.vanilla_plus.decorated_stripped_oak_log": "Tronco di quercia scortecciato decorato",
   "block.vanilla_plus.decorated_stripped_oak_wood": "Legno di quercia scortecciato decorato",
   "block.vanilla_plus.oak_table": "Tavolo di legno di quercia",
+  "block.vanilla_plus.hollow_oak_log": "Tronco di quercia cavo",
+  "block.vanilla_plus.stripped_hollow_oak_log": "Tronco di quercia cavo scortecciato",
 
   "block.vanilla_plus.decorated_acacia_planks": "Assi di acacia decorate",
   "block.vanilla_plus.decorated_acacia_log": "Tronco di acacia decorato",
@@ -14,6 +16,8 @@
   "block.vanilla_plus.decorated_stripped_acacia_log": "Tronco di acacia scortecciato decorato",
   "block.vanilla_plus.decorated_stripped_acacia_wood": "Legno di acacia scortecciato decorato",
   "block.vanilla_plus.acacia_table": "Tavolo di legno di acacia",
+  "block.vanilla_plus.hollow_acacia_log": "Tronco di acacia cavo",
+  "block.vanilla_plus.stripped_hollow_acacia_log": "Tronco di acacia cavo scortecciato",
 
   "block.vanilla_plus.decorated_dark_oak_planks": "Assi di quercia scura decorate",
   "block.vanilla_plus.decorated_dark_oak_log": "Tronco di quercia scura decorato",
@@ -35,6 +39,8 @@
   "block.vanilla_plus.decorated_stripped_birch_log": "Tronco di betulla scortecciato decorato",
   "block.vanilla_plus.decorated_stripped_birch_wood": "Legno di betulla scortecciato decorato",
   "block.vanilla_plus.birch_table": "Tavolo di legno di betulla",
+  "block.vanilla_plus.hollow_birch_log": "Tronco di betulla cavo",
+  "block.vanilla_plus.stripped_hollow_birch_log": "Tronco di betulla cavo scortecciato",
 
   "block.vanilla_plus.decorated_spruce_planks": "Assi di abete decorate",
   "block.vanilla_plus.decorated_spruce_log": "Tronco di abete decorato",

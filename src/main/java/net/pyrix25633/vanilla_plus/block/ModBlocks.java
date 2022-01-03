@@ -22,260 +22,266 @@ public class ModBlocks {
     public static final Block DECORATED_OAK_PLANKS = registerWoodBlock("decorated_oak_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_OAK_LOG = registerWoodBlock("decorated_oak_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_OAK_WOOD = registerWoodBlock("decorated_oak_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_OAK_LOG = registerWoodBlock("decorated_stripped_oak_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_OAK_WOOD = registerWoodBlock("decorated_stripped_oak_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block OAK_TABLE = registerWoodBlock("oak_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     public static final Block HOLLOW_OAK_LOG = registerWoodBlock("hollow_oak_log",
             new HollowLog(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     public static final Block STRIPPED_HOLLOW_OAK_LOG = registerWoodBlock("stripped_hollow_oak_log",
             new HollowLog(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     //Acacia
     public static final Block DECORATED_ACACIA_PLANKS = registerWoodBlock("decorated_acacia_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_ACACIA_LOG = registerWoodBlock("decorated_acacia_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_ACACIA_WOOD = registerWoodBlock("decorated_acacia_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_ACACIA_LOG = registerWoodBlock("decorated_stripped_acacia_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_ACACIA_WOOD = registerWoodBlock("decorated_stripped_acacia_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block ACACIA_TABLE = registerWoodBlock("acacia_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_ACACIA_LOG = registerWoodBlock("hollow_acacia_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_ACACIA_LOG = registerWoodBlock("stripped_hollow_acacia_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     //Birch
     public static final Block DECORATED_BIRCH_PLANKS = registerWoodBlock("decorated_birch_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_BIRCH_LOG = registerWoodBlock("decorated_birch_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_BIRCH_WOOD = registerWoodBlock("decorated_birch_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_BIRCH_LOG = registerWoodBlock("decorated_stripped_birch_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_BIRCH_WOOD = registerWoodBlock("decorated_stripped_birch_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block BIRCH_TABLE = registerWoodBlock("birch_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_BIRCH_LOG = registerWoodBlock("hollow_birch_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_BIRCH_LOG = registerWoodBlock("stripped_hollow_birch_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     //Spruce
     public static final Block DECORATED_SPRUCE_PLANKS = registerWoodBlock("decorated_spruce_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_SPRUCE_LOG = registerWoodBlock("decorated_spruce_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_SPRUCE_WOOD = registerWoodBlock("decorated_spruce_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_SPRUCE_LOG = registerWoodBlock("decorated_stripped_spruce_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_SPRUCE_WOOD = registerWoodBlock("decorated_stripped_spruce_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block SPRUCE_TABLE = registerWoodBlock("spruce_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_SPRUCE_LOG = registerWoodBlock("hollow_spruce_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_SPRUCE_LOG = registerWoodBlock("stripped_hollow_spruce_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     //Jungle
     public static final Block DECORATED_JUNGLE_PLANKS = registerWoodBlock("decorated_jungle_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_JUNGLE_LOG = registerWoodBlock("decorated_jungle_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_JUNGLE_WOOD = registerWoodBlock("decorated_jungle_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_JUNGLE_LOG = registerWoodBlock("decorated_stripped_jungle_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_JUNGLE_WOOD = registerWoodBlock("decorated_stripped_jungle_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block JUNGLE_TABLE = registerWoodBlock("jungle_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_JUNGLE_LOG = registerWoodBlock("hollow_jungle_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_JUNGLE_LOG = registerWoodBlock("stripped_hollow_jungle_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
 
     //Dark Oak
     public static final Block DECORATED_DARK_OAK_PLANKS = registerWoodBlock("decorated_dark_oak_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_DARK_OAK_LOG = registerWoodBlock("decorated_dark_oak_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_DARK_OAK_WOOD = registerWoodBlock("decorated_dark_oak_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_DARK_OAK_LOG = registerWoodBlock("decorated_stripped_dark_oak_log",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_DARK_OAK_WOOD = registerWoodBlock("decorated_stripped_dark_oak_wood",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DARK_OAK_TABLE = registerWoodBlock("dark_oak_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_DARK_OAK_LOG = registerWoodBlock("hollow_dark_oak_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_DARK_OAK_LOG = registerWoodBlock("stripped_hollow_dark_oak_log",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     //Crimson
     public static final Block DECORATED_CRIMSON_PLANKS = registerWoodBlock("decorated_crimson_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_CRIMSON_STEM = registerWoodBlock("decorated_crimson_stem",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_CRIMSON_HYPHAE = registerWoodBlock("decorated_crimson_hyphae",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_CRIMSON_STEM = registerWoodBlock("decorated_stripped_crimson_stem",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_CRIMSON_HYPHAE = registerWoodBlock("decorated_stripped_crimson_hyphae",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block CRIMSON_TABLE = registerWoodBlock("crimson_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_CRIMSON_STEM = registerWoodBlock("hollow_crimson_stem",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_CRIMSON_STEM = registerWoodBlock("stripped_hollow_crimson_stem",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
     //Warped
     public static final Block DECORATED_WARPED_PLANKS = registerWoodBlock("decorated_warped_planks",
             new Block(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_WARPED_STEM = registerWoodBlock("decorated_warped_stem",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_WARPED_HYPHAE = registerWoodBlock("decorated_warped_hyphae",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_WARPED_STEM = registerWoodBlock("decorated_stripped_warped_stem",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block DECORATED_STRIPPED_WARPED_HYPHAE = registerWoodBlock("decorated_stripped_warped_hyphae",
             new ModLogBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
                     .sounds(BlockSoundGroup.WOOD)));
     public static final Block WARPED_TABLE = registerWoodBlock("warped_table",
             new ModTableBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
-                    .breakByTool(FabricToolTags.AXES)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block HOLLOW_WARPED_STEM = registerWoodBlock("hollow_warped_stem",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD).nonOpaque()));
+    public static final Block STRIPPED_HOLLOW_WARPED_STEM = registerWoodBlock("stripped_hollow_warped_stem",
+            new HollowLog(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD).nonOpaque()));
 
     private static Block registerWoodBlock(String name, Block block) {
