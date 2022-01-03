@@ -1,0 +1,15 @@
+{
+  "minecraft:decorated_blocks/the_table": {
+    "criteria": {
+      "requirement": "2021-11-08 16:14:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2021-11-08 16:14:27 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
