@@ -61,6 +61,8 @@
   "block.vanilla_plus.decorated_stripped_warped_stem": "Decorated Stripped Warped Stem",
   "block.vanilla_plus.decorated_stripped_warped_hyphae": "Decorated Stripped Warped Hyphae",
   "block.vanilla_plus.warped_table": "Warped Table",
+  "block.vanilla_plus.hollow_warped_stem": "Hollow Warped Stem",
+  "block.vanilla_plus.stripped_hollow_warped_stem": "Stripped Hollow Warped Stem",
 
   "block.vanilla_plus.decorated_crimson_planks": "Decorated Crimson Planks",
   "block.vanilla_plus.decorated_crimson_stem": "Decorated Crimson Stem",
@@ -68,6 +70,8 @@
   "block.vanilla_plus.decorated_stripped_crimson_stem": "Decorated Stripped Crimson Stem",
   "block.vanilla_plus.decorated_stripped_crimson_hyphae": "Decorated Stripped Crimson Hyphae",
   "block.vanilla_plus.crimson_table": "Crimson Table",
+  "block.vanilla_plus.hollow_crimson_stem": "Hollow Crimson Stem",
+  "block.vanilla_plus.stripped_hollow_crimson_stem": "Stripped Hollow Crimson Stem",
 
   "itemGroup.vanilla_plus.decorated_blocks": "Decorated Blocks"
 }

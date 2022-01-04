@@ -59,6 +59,8 @@
   "block.vanilla_plus.decorated_stripped_warped_stem": "Gambo distorto scortecciato decorato",
   "block.vanilla_plus.decorated_stripped_warped_hyphae": "Ife distorte scortecciate decorate",
   "block.vanilla_plus.warped_table": "Tavolo di legno distorto",
+  "block.vanilla_plus.hollow_warped_stem": "Gambo distorto cavo",
+  "block.vanilla_plus.stripped_hollow_warped_stem": "Gambo distorto cavo scortecciato",
 
   "block.vanilla_plus.decorated_crimson_planks": "Assi cremisi decorate",
   "block.vanilla_plus.decorated_crimson_stem": "Gambo cremisi decorato",
@@ -66,6 +68,8 @@
   "block.vanilla_plus.decorated_stripped_crimson_stem": "Gambo cremisi scortecciato decorato",
   "block.vanilla_plus.decorated_stripped_crimson_hyphae": "Ife cremisi scortecciate decorate",
   "block.vanilla_plus.crimson_table": "Tavolo di legno cremisi",
+  "block.vanilla_plus.hollow_crimson_stem": "Gambo cremisi cavo",
+  "block.vanilla_plus.stripped_hollow_crimson_stem": "Gambo cremisi cavo scortecciato",
 
   "itemGroup.vanilla_plus.decorated_blocks": "Blocchi decorati"
 }
