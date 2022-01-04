@@ -25,6 +25,8 @@
   "block.vanilla_plus.decorated_stripped_dark_oak_log": "Decorated Stripped Dark Oak Log",
   "block.vanilla_plus.decorated_stripped_dark_oak_wood": "Decorated Stripped Dark Oak Wood",
   "block.vanilla_plus.dark_oak_table": "Dark Oak Table",
+  "block.vanilla_plus.hollow_dark_oak_log": "Hollow Dark Oak Log",
+  "block.vanilla_plus.stripped_hollow_dark_oak_log": "Stripped Hollow Dark Oak Log",
 
   "block.vanilla_plus.decorated_jungle_planks": "Decorated Jungle Planks",
   "block.vanilla_plus.decorated_jungle_log": "Decorated Jungle Log",
@@ -32,6 +34,8 @@
   "block.vanilla_plus.decorated_stripped_jungle_log": "Decorated Stripped Jungle Log",
   "block.vanilla_plus.decorated_stripped_jungle_wood": "Decorated Stripped Jungle Wood",
   "block.vanilla_plus.jungle_table": "Jungle Table",
+  "block.vanilla_plus.hollow_jungle_log": "Hollow Jungle Log",
+  "block.vanilla_plus.stripped_hollow_jungle_log": "Stripped Hollow Jungle Log",
 
   "block.vanilla_plus.decorated_birch_planks": "Decorated Birch Planks",
   "block.vanilla_plus.decorated_birch_log": "Decorated Birch Log",
