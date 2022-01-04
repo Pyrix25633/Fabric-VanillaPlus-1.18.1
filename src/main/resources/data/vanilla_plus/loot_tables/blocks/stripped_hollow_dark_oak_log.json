@@ -23,7 +23,7 @@
           "conditions": [
             {
               "condition": "minecraft:block_state_property",
-              "block": "vanilla_plus:stripped_hollow_oak_log",
+              "block": "vanilla_plus:stripped_hollow_dark_oak_log",
               "properties": {
                 "mossy": "true"
               }
