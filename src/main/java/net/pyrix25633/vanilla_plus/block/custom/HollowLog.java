@@ -187,9 +187,9 @@ public class HollowLog extends Block implements Waterloggable{
                             .with(AXIS, state.get(AXIS)).with(MOSSY, state.get(MOSSY))
                             .with(WATERLOGGED, state.get(WATERLOGGED)));
                 }
-                //Acacia
-                else if(state.isOf(ModBlocks.HOLLOW_ACACIA_LOG)) {
-                    world.setBlockState(pos, ModBlocks.STRIPPED_HOLLOW_ACACIA_LOG.getDefaultState()
+                //Spruce
+                else if(state.isOf(ModBlocks.HOLLOW_SPRUCE_LOG)) {
+                    world.setBlockState(pos, ModBlocks.STRIPPED_HOLLOW_SPRUCE_LOG.getDefaultState()
                             .with(AXIS, state.get(AXIS)).with(MOSSY, state.get(MOSSY))
                             .with(WATERLOGGED, state.get(WATERLOGGED)));
                 }
@@ -199,9 +199,9 @@ public class HollowLog extends Block implements Waterloggable{
                             .with(AXIS, state.get(AXIS)).with(MOSSY, state.get(MOSSY))
                             .with(WATERLOGGED, state.get(WATERLOGGED)));
                 }
-                //Spruce
-                else if(state.isOf(ModBlocks.HOLLOW_SPRUCE_LOG)) {
-                    world.setBlockState(pos, ModBlocks.STRIPPED_HOLLOW_SPRUCE_LOG.getDefaultState()
+                //Acacia
+                else if(state.isOf(ModBlocks.HOLLOW_ACACIA_LOG)) {
+                    world.setBlockState(pos, ModBlocks.STRIPPED_HOLLOW_ACACIA_LOG.getDefaultState()
                             .with(AXIS, state.get(AXIS)).with(MOSSY, state.get(MOSSY))
                             .with(WATERLOGGED, state.get(WATERLOGGED)));
                 }
