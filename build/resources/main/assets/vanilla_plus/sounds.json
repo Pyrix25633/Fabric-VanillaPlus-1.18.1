@@ -1,0 +1,44 @@
+{
+  "everything_s_a_symptom": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.everything_s_a_symptom",
+    "sounds": [
+      "vanilla_plus:everything_s_a_symptom"
+    ]
+  },
+  "dawn": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.dawn",
+    "sounds": [
+      "vanilla_plus:dawn"
+    ]
+  },
+  "heron": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.heron",
+    "sounds": [
+      "vanilla_plus:heron"
+    ]
+  },
+  "sweet_look": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.sweet_look",
+    "sounds": [
+      "vanilla_plus:sweet_look"
+    ]
+  },
+  "lost_treasure": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.lost_treasure",
+    "sounds": [
+      "vanilla_plus:lost_treasure"
+    ]
+  },
+  "alien_sky": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.alien_sky",
+    "sounds": [
+      "vanilla_plus:alien_sky"
+    ]
+  }
+}
