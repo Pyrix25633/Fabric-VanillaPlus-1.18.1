@@ -40,5 +40,47 @@
     "sounds": [
       "vanilla_plus:alien_sky"
     ]
+  },
+  "backpack_city": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.backpack_city",
+    "sounds": [
+      "vanilla_plus:backpack_city"
+    ]
+  },
+  "levitate": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.levitate",
+    "sounds": [
+      "vanilla_plus:levitate"
+    ]
+  },
+  "snaps": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.snaps",
+    "sounds": [
+      "vanilla_plus:snaps"
+    ]
+  },
+  "mount_and_blade": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.mount_and_blade",
+    "sounds": [
+      "vanilla_plus:mount_and_blade"
+    ]
+  },
+  "pink_night_sky": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.pink_night_sky",
+    "sounds": [
+      "vanilla_plus:pink_night_sky"
+    ]
+  },
+  "yerba_mate": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.yerba_mate",
+    "sounds": [
+      "vanilla_plus:yerba_mate"
+    ]
   }
 }

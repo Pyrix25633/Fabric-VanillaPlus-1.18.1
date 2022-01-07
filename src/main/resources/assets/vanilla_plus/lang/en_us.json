@@ -101,5 +101,29 @@
 
   "item.vanilla_plus.music_disc_alien_sky": "Music Disc",
   "item.vanilla_plus.music_disc_alien_sky.desc": "Purrple Cat - Alien Sky",
-  "subtitles.vanilla_plus.alien_sky": "Purrple Cat - Alien Sky"
+  "subtitles.vanilla_plus.alien_sky": "Purrple Cat - Alien Sky",
+
+  "item.vanilla_plus.music_disc_backpack_city": "Music Disc",
+  "item.vanilla_plus.music_disc_backpack_city.desc": "Flovry x tender spring - Backpack City",
+  "subtitles.vanilla_plus.backpack_city": "Flovry x tender spring - Backpack City",
+
+  "item.vanilla_plus.music_disc_levitate": "Music Disc",
+  "item.vanilla_plus.music_disc_levitate.desc": "amies x cxlt - Levitate",
+  "subtitles.vanilla_plus.levitate": "amies x cxlt - Levitate",
+
+  "item.vanilla_plus.music_disc_snaps": "Music Disc",
+  "item.vanilla_plus.music_disc_snaps.desc": "Monma - Snaps",
+  "subtitles.vanilla_plus.snaps": "Monma - Snaps",
+
+  "item.vanilla_plus.music_disc_mount_and_blade": "Music Disc",
+  "item.vanilla_plus.music_disc_mount_and_blade.desc": "HM Surf - Mount and Blade",
+  "subtitles.vanilla_plus.mount_and_blade": "HM Surf - Mount and Blade",
+
+  "item.vanilla_plus.music_disc_pink_night_sky": "Music Disc",
+  "item.vanilla_plus.music_disc_pink_night_sky.desc": "Dr Dundiff - Pink Night Sky",
+  "subtitles.vanilla_plus.pink_night_sky": "Dr Dundiff - Pink Night Sky",
+
+  "item.vanilla_plus.music_disc_yerba_mate": "Music Disc",
+  "item.vanilla_plus.music_disc_yerba_mate.desc": "Ky Alasha - Yerba Mate",
+  "subtitles.vanilla_plus.yerba_mate": "Ky Alasha - Yerba Mate"
 }

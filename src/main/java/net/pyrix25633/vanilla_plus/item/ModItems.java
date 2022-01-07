@@ -46,6 +46,30 @@ public class ModItems {
             new ModMusicDiscItem(4, ModSounds.ALIEN_SKY, new FabricItemSettings()
                     .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
 
+    public static final Item MUSIC_DISC_BACKPACK_CITY = registerItem("music_disc_backpack_city",
+            new ModMusicDiscItem(4, ModSounds.BACKPACK_CITY, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    public static final Item MUSIC_DISC_LEVITATE = registerItem("music_disc_levitate",
+            new ModMusicDiscItem(4, ModSounds.LEVITATE, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    public static final Item MUSIC_DISC_SNAPS = registerItem("music_disc_snaps",
+            new ModMusicDiscItem(4, ModSounds.SNAPS, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    public static final Item MUSIC_DISC_MOUNT_AND_BLADE = registerItem("music_disc_mount_and_blade",
+            new ModMusicDiscItem(4, ModSounds.MOUNT_AND_BLADE, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    public static final Item MUSIC_DISC_PINK_NIGHT_SKY = registerItem("music_disc_pink_night_sky",
+            new ModMusicDiscItem(4, ModSounds.PINK_NIGHT_SKY, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    public static final Item MUSIC_DISC_YERBA_MATE = registerItem("music_disc_yerba_mate",
+            new ModMusicDiscItem(4, ModSounds.YERBA_MATE, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
     private static Item registerItem(String name, Item item ) {
         return Registry.register(Registry.ITEM, new Identifier(VanillaPlus.MOD_ID, name), item);
     }
