@@ -78,52 +78,53 @@
 
   "item.vanilla_plus.blank_music_disc_piece": "Pezzo di disco musicale vuoto",
   "item.vanilla_plus.blank_music_disc": "Disco musicale vuoto",
+  "item.vanilla_plus.blank_lofi_music_disc": "Disco musicale Lofi vuoto",
 
-  "item.vanilla_plus.music_disc_everything_s_a_symptom": "Disco musicale",
+  "item.vanilla_plus.music_disc_everything_s_a_symptom": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_everything_s_a_symptom.desc": "less.people - Everything's a symptom",
   "subtitles.vanilla_plus.everything_s_a_symptom": "less.people - Everything's a symptom",
 
-  "item.vanilla_plus.music_disc_dawn": "Disco musicale",
+  "item.vanilla_plus.music_disc_dawn": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_dawn.desc": "tysu x Spencer Hunt - Dawn",
   "subtitles.vanilla_plus.dawn": "tysu x Spencer Hunt - Dawn",
 
-  "item.vanilla_plus.music_disc_heron": "Disco musicale",
+  "item.vanilla_plus.music_disc_heron": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_heron.desc": "Mila Coolness - Heron",
   "subtitles.vanilla_plus.heron": "Mila Coolness - Heron",
 
-  "item.vanilla_plus.music_disc_sweet_look": "Disco musicale",
+  "item.vanilla_plus.music_disc_sweet_look": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_sweet_look.desc": "Jhore x bert - Sweet Look",
   "subtitles.vanilla_plus.sweet_look": "Jhore x bert - Sweet Look",
 
-  "item.vanilla_plus.music_disc_lost_treasure": "Disco musicale",
+  "item.vanilla_plus.music_disc_lost_treasure": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_lost_treasure.desc": "Purrple Cat - Lost Treasure",
   "subtitles.vanilla_plus.lost_treasure": "Purrple Cat - Lost Treasure",
 
-  "item.vanilla_plus.music_disc_alien_sky": "Disco musicale",
+  "item.vanilla_plus.music_disc_alien_sky": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_alien_sky.desc": "Purrple Cat - Alien Sky",
   "subtitles.vanilla_plus.alien_sky": "Purrple Cat - Alien Sky",
 
-  "item.vanilla_plus.music_disc_backpack_city": "Disco musicale",
+  "item.vanilla_plus.music_disc_backpack_city": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_backpack_city.desc": "Flovry x tender spring - Backpack City",
   "subtitles.vanilla_plus.backpack_city": "Flovry x tender spring - Backpack City",
 
-  "item.vanilla_plus.music_disc_levitate": "Disco musicale",
+  "item.vanilla_plus.music_disc_levitate": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_levitate.desc": "amies x cxlt - Levitate",
   "subtitles.vanilla_plus.levitate": "amies x cxlt - Levitate",
 
-  "item.vanilla_plus.music_disc_snaps": "Disco musicale",
+  "item.vanilla_plus.music_disc_snaps": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_snaps.desc": "Monma - Snaps",
   "subtitles.vanilla_plus.snaps": "Monma - Snaps",
 
-  "item.vanilla_plus.music_disc_mount_and_blade": "Disco musicale",
+  "item.vanilla_plus.music_disc_mount_and_blade": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_mount_and_blade.desc": "HM Surf - Mount and Blade",
   "subtitles.vanilla_plus.mount_and_blade": "HM Surf - Mount and Blade",
 
-  "item.vanilla_plus.music_disc_pink_night_sky": "Disco musicale",
+  "item.vanilla_plus.music_disc_pink_night_sky": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_pink_night_sky.desc": "Dr Dundiff - Pink Night Sky",
   "subtitles.vanilla_plus.pink_night_sky": "Dr Dundiff - Pink Night Sky",
 
-  "item.vanilla_plus.music_disc_yerba_mate": "Disco musicale",
+  "item.vanilla_plus.music_disc_yerba_mate": "Disco musicale Lofi",
   "item.vanilla_plus.music_disc_yerba_mate.desc": "Ky Alasha - Yerba Mate",
   "subtitles.vanilla_plus.yerba_mate": "Ky Alasha - Yerba Mate"
 }

@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "vanilla_plus:blank_music_disc"
+      "item": "vanilla_plus:blank_lofi_music_disc"
     },
     {
       "item": "minecraft:light_blue_dye"

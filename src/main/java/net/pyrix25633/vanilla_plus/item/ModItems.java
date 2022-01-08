@@ -22,6 +22,9 @@ public class ModItems {
     public static final Item BLANK_MUSIC_DISC = registerItem("blank_music_disc",
             new Item(new FabricItemSettings().maxCount(64).group(ModItemGroup.MUSIC_DISCS)));
 
+    public static final Item BLANK_LOFI_MUSIC_DISC = registerItem("blank_lofi_music_disc",
+            new Item(new FabricItemSettings().maxCount(64).group(ModItemGroup.MUSIC_DISCS)));
+
     public static final Item MUSIC_DISC_EVERYTHING_S_A_SYMPTOM = registerItem("music_disc_everything_s_a_symptom",
             new ModMusicDiscItem(4, ModSounds.EVERYTHING_S_A_SYMPTOM, new FabricItemSettings()
                     .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
