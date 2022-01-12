@@ -6,6 +6,7 @@ import net.minecraft.util.registry.Registry;
 import net.pyrix25633.vanilla_plus.VanillaPlus;
 
 public class ModSounds {
+    //Lofi
     public static SoundEvent EVERYTHING_S_A_SYMPTOM = registerSoundEvent("everything_s_a_symptom");
 
     public static SoundEvent DAWN = registerSoundEvent("dawn");
@@ -29,6 +30,21 @@ public class ModSounds {
     public static SoundEvent PINK_NIGHT_SKY = registerSoundEvent("pink_night_sky");
 
     public static SoundEvent YERBA_MATE = registerSoundEvent("yerba_mate");
+
+    //Pop
+    public static SoundEvent BACKYARD_BOY = registerSoundEvent("backyard_boy");
+
+    public static SoundEvent LOSING_MY_GRIP = registerSoundEvent("losing_my_grip");
+
+    public static SoundEvent PENNY_RABBIT_AND_SUMMER_BEAR = registerSoundEvent("penny_rabbit_and_summer_bear");
+
+    public static SoundEvent REMEMBER_WHEN = registerSoundEvent("remember_when");
+
+    //Rap
+    public static SoundEvent I_WONDER = registerSoundEvent("i_wonder");
+
+    //Rock
+    public static SoundEvent LIBERTY_BELLE = registerSoundEvent("liberty_belle");
 
     private static SoundEvent registerSoundEvent(String name) {
         Identifier id = new Identifier(VanillaPlus.MOD_ID, name);

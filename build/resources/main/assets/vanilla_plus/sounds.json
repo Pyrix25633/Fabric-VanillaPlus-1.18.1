@@ -82,5 +82,47 @@
     "sounds": [
       "vanilla_plus:yerba_mate"
     ]
+  },
+  "backyard_boy": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.backyard_boy",
+    "sounds": [
+      "vanilla_plus:backyard_boy"
+    ]
+  },
+  "losing_my_grip": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.losing_my_grip",
+    "sounds": [
+      "vanilla_plus:losing_my_grip"
+    ]
+  },
+  "penny_rabbit_and_summer_bear": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.penny_rabbit_and_summer_bear",
+    "sounds": [
+      "vanilla_plus:penny_rabbit_and_summer_bear"
+    ]
+  },
+  "remember_when": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.remember_when",
+    "sounds": [
+      "vanilla_plus:remember_when"
+    ]
+  },
+  "i_wonder": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.i_wonder",
+    "sounds": [
+      "vanilla_plus:i_wonder"
+    ]
+  },
+  "liberty_belle": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.liberty_belle",
+    "sounds": [
+      "vanilla_plus:liberty_belle"
+    ]
   }
 }

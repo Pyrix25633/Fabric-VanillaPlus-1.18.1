@@ -1,0 +1,34 @@
+{
+  "vanilla_plus:decoration": {
+    "criteria": {
+      "requirement": "2022-01-12 11:04:00 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them": {
+    "criteria": {
+      "crimson": "2022-01-12 11:05:15 +0100",
+      "birch": "2022-01-12 11:05:25 +0100",
+      "oak": "2022-01-12 11:05:04 +0100",
+      "acacia": "2022-01-12 11:05:25 +0100",
+      "warped": "2022-01-12 11:05:13 +0100",
+      "jungle": "2022-01-12 11:05:17 +0100",
+      "dark_oak": "2022-01-12 11:05:16 +0100",
+      "spruce": "2022-01-12 11:05:27 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:the_table": {
+    "criteria": {
+      "requirement": "2022-01-12 11:05:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-12 11:04:00 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

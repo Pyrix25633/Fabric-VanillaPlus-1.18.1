@@ -76,9 +76,25 @@
   "itemGroup.vanilla_plus.decorated_blocks": "Decorated Blocks",
   "itemGroup.vanilla_plus.music_discs": "Music Discs",
 
+  "advancements.vanilla_plus.decoration.title": "Decoration?",
+  "advancements.vanilla_plus.decoration.description": "Obtain a Decorated Oak Planks block",
+  "advancements.vanilla_plus.the_table.title": "The Table",
+  "advancements.vanilla_plus.the_table.description": "Obtain an Oak Table",
+  "advancements.vanilla_plus.all_of_them.title": "All Of Them",
+  "advancements.vanilla_plus.all_of_them.description": "Collect all the Decorated Planks blocks",
+  "advancements.vanilla_plus.all_of_them_the_return.title": "All Of Them: The Return",
+  "advancements.vanilla_plus.all_of_them_the_return.description": "Collect all the Tables",
+  "advancements.vanilla_plus.no_music.title": "No Music?",
+  "advancements.vanilla_plus.no_music.description": "Obtain a Blank Music Disc",
+  "advancements.vanilla_plus.all_of_them_the_revenge.title": "All Of Them: The Revenge",
+  "advancements.vanilla_plus.all_of_them_the_revenge.description": "Collect all the Blank Music Discs",
+
   "item.vanilla_plus.blank_music_disc_piece": "Blank Music Disc Piece",
   "item.vanilla_plus.blank_music_disc": "Blank Music Disc",
   "item.vanilla_plus.blank_lofi_music_disc": "Blank Lofi Music Disc",
+  "item.vanilla_plus.blank_pop_music_disc": "Blank Pop Music Disc",
+  "item.vanilla_plus.blank_rap_music_disc": "Blank Rap Music Disc",
+  "item.vanilla_plus.blank_rock_music_disc": "Blank Rock Music Disc",
 
   "item.vanilla_plus.music_disc_everything_s_a_symptom": "Lofi Music Disc",
   "item.vanilla_plus.music_disc_everything_s_a_symptom.desc": "less.people - Everything's a symptom",
@@ -126,5 +142,29 @@
 
   "item.vanilla_plus.music_disc_yerba_mate": "Lofi Music Disc",
   "item.vanilla_plus.music_disc_yerba_mate.desc": "Ky Alasha - Yerba Mate",
-  "subtitles.vanilla_plus.yerba_mate": "Ky Alasha - Yerba Mate"
+  "subtitles.vanilla_plus.yerba_mate": "Ky Alasha - Yerba Mate",
+
+  "item.vanilla_plus.music_disc_backyard_boy": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_backyard_boy.desc": "Claire Rosinkranz - Backyard Boy",
+  "subtitles.vanilla_plus.backyard_boy": "Claire Rosinkranz - Backyard Boy",
+
+  "item.vanilla_plus.music_disc_losing_my_grip": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_losing_my_grip.desc": "Junior Mesa - Losing my grip",
+  "subtitles.vanilla_plus.losing_my_grip": "Junior Mesa - Losing my grip",
+
+  "item.vanilla_plus.music_disc_penny_rabbit_and_summer_bear": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_penny_rabbit_and_summer_bear.desc": "Kishi Bashi - Penny rabbit and summer bear",
+  "subtitles.vanilla_plus.penny_rabbit_and_summer_bear": "Kishi Bashi - Penny rabbit and summer bear",
+
+  "item.vanilla_plus.music_disc_remember_when": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_remember_when.desc": "Wallows - Remember when",
+  "subtitles.vanilla_plus.remember_when": "Wallows - Remember when",
+
+  "item.vanilla_plus.music_disc_i_wonder": "Rap Music Disc",
+  "item.vanilla_plus.music_disc_i_wonder.desc": "Kanye West - I Wonder",
+  "subtitles.vanilla_plus.i_wonder": "Kanye West - I Wonder",
+
+  "item.vanilla_plus.music_disc_liberty_belle": "Rock Music Disc",
+  "item.vanilla_plus.music_disc_liberty_belle.desc": "Fontaines D.C. - Liberty belle",
+  "subtitles.vanilla_plus.liberty_belle": "Fontaines D.C. - Liberty belle"
 }

@@ -1,0 +1,68 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-12 11:43:10 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:decoration": {
+    "criteria": {
+      "requirement": "2022-01-12 11:43:10 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them": {
+    "criteria": {
+      "crimson": "2022-01-12 11:43:10 +0100",
+      "birch": "2022-01-12 11:43:10 +0100",
+      "oak": "2022-01-12 11:43:10 +0100",
+      "acacia": "2022-01-12 11:43:10 +0100",
+      "warped": "2022-01-12 11:43:10 +0100",
+      "jungle": "2022-01-12 11:43:10 +0100",
+      "dark_oak": "2022-01-12 11:43:10 +0100",
+      "spruce": "2022-01-12 11:43:10 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:the_table": {
+    "criteria": {
+      "requirement": "2022-01-12 11:43:10 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_the_revenge": {
+    "criteria": {
+      "pop": "2022-01-12 11:45:56 +0100",
+      "rap": "2022-01-12 11:45:57 +0100",
+      "rock": "2022-01-12 11:45:59 +0100",
+      "lofi": "2022-01-12 11:46:01 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_the_return": {
+    "criteria": {
+      "crimson": "2022-01-12 11:43:10 +0100",
+      "birch": "2022-01-12 11:43:10 +0100",
+      "oak": "2022-01-12 11:43:10 +0100",
+      "acacia": "2022-01-12 11:43:10 +0100",
+      "warped": "2022-01-12 11:43:10 +0100",
+      "jungle": "2022-01-12 11:43:10 +0100",
+      "dark_oak": "2022-01-12 11:43:10 +0100",
+      "spruce": "2022-01-12 11:43:10 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:no_music": {
+    "criteria": {
+      "requirement": "2022-01-12 11:43:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-12 11:43:10 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

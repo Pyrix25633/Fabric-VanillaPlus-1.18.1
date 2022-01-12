@@ -1,0 +1,53 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-12 11:30:18 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:decoration": {
+    "criteria": {
+      "requirement": "2022-01-12 11:29:56 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them": {
+    "criteria": {
+      "crimson": "2022-01-12 11:29:56 +0100",
+      "birch": "2022-01-12 11:29:56 +0100",
+      "oak": "2022-01-12 11:29:56 +0100",
+      "acacia": "2022-01-12 11:29:56 +0100",
+      "warped": "2022-01-12 11:29:56 +0100",
+      "jungle": "2022-01-12 11:29:56 +0100",
+      "dark_oak": "2022-01-12 11:29:56 +0100",
+      "spruce": "2022-01-12 11:29:56 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:the_table": {
+    "criteria": {
+      "requirement": "2022-01-12 11:29:56 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_the_return": {
+    "criteria": {
+      "crimson": "2022-01-12 11:30:33 +0100",
+      "birch": "2022-01-12 11:30:26 +0100",
+      "oak": "2022-01-12 11:29:56 +0100",
+      "acacia": "2022-01-12 11:30:28 +0100",
+      "warped": "2022-01-12 11:30:35 +0100",
+      "jungle": "2022-01-12 11:30:29 +0100",
+      "dark_oak": "2022-01-12 11:30:32 +0100",
+      "spruce": "2022-01-12 11:30:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-12 11:29:56 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
