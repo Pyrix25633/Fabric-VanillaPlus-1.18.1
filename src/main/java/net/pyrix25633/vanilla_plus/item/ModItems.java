@@ -34,6 +34,9 @@ public class ModItems {
     public static final Item BLANK_ROCK_MUSIC_DISC = registerItem("blank_rock_music_disc",
             new Item(new FabricItemSettings().maxCount(64).group(ModItemGroup.MUSIC_DISCS)));
 
+    public static final Item BLANK_ELECTRO_MUSIC_DISC = registerItem("blank_electro_music_disc",
+            new Item(new FabricItemSettings().maxCount(64).group(ModItemGroup.MUSIC_DISCS)));
+
     //Lofi
     public static final Item MUSIC_DISC_EVERYTHING_S_A_SYMPTOM = registerItem("music_disc_everything_s_a_symptom",
             new ModMusicDiscItem(4, ModSounds.EVERYTHING_S_A_SYMPTOM, new FabricItemSettings()
@@ -108,6 +111,15 @@ public class ModItems {
     //Rock
     public static final Item MUSIC_DISC_LIBERTY_BELLE = registerItem("music_disc_liberty_belle",
             new ModMusicDiscItem(4, ModSounds.LIBERTY_BELLE, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    //Electro
+    public static final Item MUSIC_DISC_I_HAVE_SEEN_A_GHOST = registerItem("music_disc_i_have_seen_a_ghost",
+            new ModMusicDiscItem(4, ModSounds.I_HAVE_SEEN_A_GHOST, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+
+    public static final Item MUSIC_DISC_THE_DISTANCE_BETWEEN_US = registerItem("music_disc_the_distance_between_us",
+            new ModMusicDiscItem(4, ModSounds.THE_DISTANCE_BETWEEN_US, new FabricItemSettings()
                     .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
 
     private static Item registerItem(String name, Item item ) {

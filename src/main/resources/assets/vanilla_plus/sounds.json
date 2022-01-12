@@ -83,6 +83,7 @@
       "vanilla_plus:yerba_mate"
     ]
   },
+
   "backyard_boy": {
     "category": "record",
     "subtitle": "subtitles.vanilla_plus.backyard_boy",
@@ -111,6 +112,7 @@
       "vanilla_plus:remember_when"
     ]
   },
+
   "i_wonder": {
     "category": "record",
     "subtitle": "subtitles.vanilla_plus.i_wonder",
@@ -118,11 +120,27 @@
       "vanilla_plus:i_wonder"
     ]
   },
+
   "liberty_belle": {
     "category": "record",
     "subtitle": "subtitles.vanilla_plus.liberty_belle",
     "sounds": [
       "vanilla_plus:liberty_belle"
+    ]
+  },
+
+  "i_have_seen_a_ghost": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.i_have_seen_a_ghost",
+    "sounds": [
+      "vanilla_plus:i_have_seen_a_ghost"
+    ]
+  },
+  "the_distance_between_us": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.the_distance_between_us",
+    "sounds": [
+      "vanilla_plus:the_distance_between_us"
     ]
   }
 }
