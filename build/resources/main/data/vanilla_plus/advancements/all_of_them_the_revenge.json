@@ -63,6 +63,18 @@
           }
         ]
       }
+    },
+    "electro": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:blank_electro_music_disc"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -77,6 +89,9 @@
     ],
     [
       "rock"
+    ],
+    [
+      "electro"
     ]
   ]
 }

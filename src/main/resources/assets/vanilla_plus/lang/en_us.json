@@ -73,13 +73,21 @@
   "block.vanilla_plus.hollow_warped_stem": "Hollow Warped Stem",
   "block.vanilla_plus.stripped_hollow_warped_stem": "Stripped Hollow Warped Stem",
 
-  "itemGroup.vanilla_plus.decorated_blocks": "Decorated Blocks",
+  "block.vanilla_plus.deep_ocean_bricks": "Deep Ocean Bricks",
+  "block.vanilla_plus.deep_ocean_brick_slab": "Deep Ocean Brick Slab",
+  "block.vanilla_plus.deep_ocean_brick_stairs": "Deep Ocean Brick Stairs",
+  "block.vanilla_plus.deep_ocean_brick_wall": "Deep Ocean Brick Wall",
+  "block.vanilla_plus.chiseled_deep_ocean_bricks": "Chiseled Deep Ocean Bricks",
+
+  "itemGroup.vanilla_plus.decorative_blocks": "Decorative Blocks",
   "itemGroup.vanilla_plus.music_discs": "Music Discs",
 
   "advancements.vanilla_plus.decoration.title": "Decoration?",
   "advancements.vanilla_plus.decoration.description": "Obtain a Decorated Oak Planks block",
   "advancements.vanilla_plus.the_table.title": "The Table",
   "advancements.vanilla_plus.the_table.description": "Obtain an Oak Table",
+  "advancements.vanilla_plus.deep_down_into_the_ocean.title": "Deep Down Into The Ocean",
+  "advancements.vanilla_plus.deep_down_into_the_ocean.description": "Obtain a Deep Ocean Bricks block",
   "advancements.vanilla_plus.all_of_them.title": "All Of Them",
   "advancements.vanilla_plus.all_of_them.description": "Collect all the Decorated Planks blocks",
   "advancements.vanilla_plus.all_of_them_the_return.title": "All Of Them: The Return",

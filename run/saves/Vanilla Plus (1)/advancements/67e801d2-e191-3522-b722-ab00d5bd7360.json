@@ -1,0 +1,24 @@
+{
+  "vanilla_plus:all_of_them_the_revenge": {
+    "criteria": {
+      "pop": "2022-01-15 19:49:08 +0100",
+      "rap": "2022-01-15 19:49:08 +0100",
+      "rock": "2022-01-15 19:49:08 +0100",
+      "lofi": "2022-01-15 19:49:08 +0100"
+    },
+    "done": false
+  },
+  "vanilla_plus:no_music": {
+    "criteria": {
+      "requirement": "2022-01-15 19:49:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-15 19:49:08 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

@@ -1,0 +1,448 @@
+{
+  "vanilla_plus:deep_down_into_the_ocean": {
+    "criteria": {
+      "requirement": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:no_music": {
+    "criteria": {
+      "requirement": "2022-01-16 12:49:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-16 12:44:59 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-16 12:45:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_the_revenge": {
+    "criteria": {
+      "pop": "2022-01-16 12:49:37 +0100",
+      "rap": "2022-01-16 12:49:37 +0100",
+      "rock": "2022-01-16 12:49:37 +0100",
+      "electro": "2022-01-16 12:49:37 +0100",
+      "lofi": "2022-01-16 12:49:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_the_reborn": {
+    "criteria": {
+      "11": "2022-01-16 12:49:22 +0100",
+      "12": "2022-01-16 12:49:22 +0100",
+      "13": "2022-01-16 12:49:22 +0100",
+      "14": "2022-01-16 12:49:22 +0100",
+      "15": "2022-01-16 12:49:22 +0100",
+      "16": "2022-01-16 12:49:22 +0100",
+      "17": "2022-01-16 12:49:22 +0100",
+      "18": "2022-01-16 12:49:22 +0100",
+      "19": "2022-01-16 12:49:22 +0100",
+      "1": "2022-01-16 12:49:22 +0100",
+      "2": "2022-01-16 12:49:22 +0100",
+      "3": "2022-01-16 12:49:22 +0100",
+      "4": "2022-01-16 12:49:22 +0100",
+      "5": "2022-01-16 12:49:22 +0100",
+      "6": "2022-01-16 12:49:22 +0100",
+      "7": "2022-01-16 12:49:22 +0100",
+      "8": "2022-01-16 12:49:22 +0100",
+      "9": "2022-01-16 12:49:22 +0100",
+      "20": "2022-01-16 12:49:22 +0100",
+      "10": "2022-01-16 12:49:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:decoration": {
+    "criteria": {
+      "requirement": "2022-01-16 12:49:59 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:the_table": {
+    "criteria": {
+      "requirement": "2022-01-16 12:49:58 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_the_return": {
+    "criteria": {
+      "crimson": "2022-01-16 12:49:30 +0100",
+      "birch": "2022-01-16 12:49:30 +0100",
+      "oak": "2022-01-16 12:49:30 +0100",
+      "acacia": "2022-01-16 12:49:30 +0100",
+      "warped": "2022-01-16 12:49:30 +0100",
+      "jungle": "2022-01-16 12:49:30 +0100",
+      "dark_oak": "2022-01-16 12:49:30 +0100",
+      "spruce": "2022-01-16 12:49:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them": {
+    "criteria": {
+      "crimson": "2022-01-16 12:49:18 +0100",
+      "birch": "2022-01-16 12:49:18 +0100",
+      "oak": "2022-01-16 12:49:18 +0100",
+      "acacia": "2022-01-16 12:49:18 +0100",
+      "warped": "2022-01-16 12:49:18 +0100",
+      "jungle": "2022-01-16 12:49:18 +0100",
+      "dark_oak": "2022-01-16 12:49:18 +0100",
+      "spruce": "2022-01-16 12:49:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-01-16 12:44:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-01-16 12:45:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2022-01-16 12:44:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2022-01-16 12:45:16 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}

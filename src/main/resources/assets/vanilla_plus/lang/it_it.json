@@ -73,13 +73,21 @@
   "block.vanilla_plus.hollow_warped_stem": "Gambo distorto cavo",
   "block.vanilla_plus.stripped_hollow_warped_stem": "Gambo distorto cavo scortecciato",
 
-  "itemGroup.vanilla_plus.decorated_blocks": "Blocchi decorati",
+  "block.vanilla_plus.deep_ocean_bricks": "Mattoni dell'oceano profondo",
+  "block.vanilla_plus.deep_ocean_brick_slab": "Lastra di mattoni dell'oceano profondo",
+  "block.vanilla_plus.deep_ocean_brick_stairs": "Scale di mattoni dell'oceano profondo",
+  "block.vanilla_plus.deep_ocean_brick_wall": "Muro di mattoni dell'oceano profondo",
+  "block.vanilla_plus.chiseled_deep_ocean_bricks": "Chiseled Deep Ocean Bricks",
+
+  "itemGroup.vanilla_plus.decorative_blocks": "Blocchi decorativi",
   "itemGroup.vanilla_plus.music_discs": "Dischi musicali",
 
   "advancements.vanilla_plus.decoration.title": "Decorazione?",
   "advancements.vanilla_plus.decoration.description": "Ottieni un blocco di assi di quercia decorate",
   "advancements.vanilla_plus.the_table.title": "Il tavolo",
   "advancements.vanilla_plus.the_table.description": "Ottieni un tavolo di legno quercia",
+  "advancements.vanilla_plus.deep_down_into_the_ocean.title": "Giù nel profondo dell'oceano",
+  "advancements.vanilla_plus.deep_down_into_the_ocean.description": "Ottieni un blocco di mattoni dell'oceano profondo",
   "advancements.vanilla_plus.all_of_them.title": "Tutti loro",
   "advancements.vanilla_plus.all_of_them.description": "Colleziona tutte le assi decorate",
   "advancements.vanilla_plus.all_of_them_the_return.title": "Tutti loro: Il ritorno",

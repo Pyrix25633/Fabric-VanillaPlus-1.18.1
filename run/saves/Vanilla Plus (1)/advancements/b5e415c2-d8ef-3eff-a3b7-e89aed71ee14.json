@@ -1,0 +1,42 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-16 12:15:27 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:decoration": {
+    "criteria": {
+      "requirement": "2022-01-16 12:15:30 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them": {
+    "criteria": {
+      "oak": "2022-01-16 12:15:30 +0100"
+    },
+    "done": false
+  },
+  "vanilla_plus:all_of_them_the_revenge": {
+    "criteria": {
+      "pop": "2022-01-16 12:14:35 +0100",
+      "rap": "2022-01-16 12:14:35 +0100",
+      "rock": "2022-01-16 12:14:35 +0100",
+      "lofi": "2022-01-16 12:14:35 +0100"
+    },
+    "done": false
+  },
+  "vanilla_plus:no_music": {
+    "criteria": {
+      "requirement": "2022-01-16 12:14:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-01-16 12:14:35 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

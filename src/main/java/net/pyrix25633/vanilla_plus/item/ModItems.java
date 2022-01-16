@@ -14,7 +14,7 @@ public class ModItems {
 
     public static final Item DECORATOR_TOOL = registerItem("decorator_tool",
             new DecoratorToolItem(new FabricItemSettings()
-                    .group(ModItemGroup.DECORATED_BLOCKS).maxDamage(256)));
+                    .group(ModItemGroup.DECORATIVE_BLOCKS).maxDamage(256)));
 
     public static final Item BLANK_MUSIC_DISC_PIECE = registerItem("blank_music_disc_piece",
             new Item(new FabricItemSettings().maxCount(64).group(ModItemGroup.MUSIC_DISCS)));
