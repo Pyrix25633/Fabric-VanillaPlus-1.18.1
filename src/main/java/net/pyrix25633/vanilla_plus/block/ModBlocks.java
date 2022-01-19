@@ -286,23 +286,28 @@ public class ModBlocks {
     public static final Block DEEP_OCEAN_BRICKS = registerDecoratedBlock("deep_ocean_bricks",
             new Block(FabricBlockSettings.of(Material.STONE)
                     .strength(deepOceanHardness, deepOceanResistance)
-                    .sounds(BlockSoundGroup.STONE)));
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
     public static final Block DEEP_OCEAN_BRICK_SLAB = registerDecoratedBlock("deep_ocean_brick_slab",
             new SlabBlock(FabricBlockSettings.of(Material.STONE)
                     .strength(deepOceanHardness, deepOceanResistance)
-                    .sounds(BlockSoundGroup.STONE)));
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
     public static final Block DEEP_OCEAN_BRICK_STAIRS = registerDecoratedBlock("deep_ocean_brick_stairs",
             new ModStairsBlocks(ModBlocks.DEEP_OCEAN_BRICKS.getDefaultState(), FabricBlockSettings.of(Material.STONE)
                     .strength(deepOceanHardness, deepOceanResistance)
-                    .sounds(BlockSoundGroup.STONE)));
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
     public static final Block DEEP_OCEAN_BRICK_WALL = registerDecoratedBlock("deep_ocean_brick_wall",
             new WallBlock(FabricBlockSettings.of(Material.STONE)
                     .strength(deepOceanHardness, deepOceanResistance)
-                    .sounds(BlockSoundGroup.STONE)));
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
     public static final Block CHISELED_DEEP_OCEAN_BRICKS = registerDecoratedBlock("chiseled_deep_ocean_bricks",
             new Block(FabricBlockSettings.of(Material.STONE)
                     .strength(deepOceanHardness, deepOceanResistance)
-                    .sounds(BlockSoundGroup.STONE)));
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
 
     private static Block registerDecoratedBlock(String name, Block block) {
         registerDecoratedBlockItem(name, block);
