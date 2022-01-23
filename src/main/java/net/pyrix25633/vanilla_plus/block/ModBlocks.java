@@ -293,6 +293,11 @@ public class ModBlocks {
                     .strength(deepOceanHardness, deepOceanResistance)
                     .sounds(BlockSoundGroup.STONE)
                     .requiresTool()));
+    public static final Block DEEP_OCEAN_BRICK_VERTICAL_SLAB = registerDecoratedBlock("deep_ocean_brick_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.STONE)
+                    .strength(deepOceanHardness, deepOceanResistance)
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
     public static final Block DEEP_OCEAN_BRICK_STAIRS = registerDecoratedBlock("deep_ocean_brick_stairs",
             new ModStairsBlocks(ModBlocks.DEEP_OCEAN_BRICKS.getDefaultState(), FabricBlockSettings.of(Material.STONE)
                     .strength(deepOceanHardness, deepOceanResistance)
