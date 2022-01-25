@@ -314,6 +314,40 @@ public class ModBlocks {
                     .sounds(BlockSoundGroup.STONE)
                     .requiresTool()));
 
+    //Vertical Slabs
+    public static final Block OAK_VERTICAL_SLAB = registerDecoratedBlock("oak_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block SPRUCE_VERTICAL_SLAB = registerDecoratedBlock("spruce_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block BIRCH_VERTICAL_SLAB = registerDecoratedBlock("birch_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block JUNGLE_VERTICAL_SLAB = registerDecoratedBlock("jungle_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block ACACIA_VERTICAL_SLAB = registerDecoratedBlock("acacia_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block DARK_OAK_VERTICAL_SLAB = registerDecoratedBlock("dark_oak_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block CRIMSON_VERTICAL_SLAB = registerDecoratedBlock("crimson_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+    public static final Block WARPED_VERTICAL_SLAB = registerDecoratedBlock("warped_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
+                    .strength(woodHardness, woodResistance)
+                    .sounds(BlockSoundGroup.WOOD)));
+
     private static Block registerDecoratedBlock(String name, Block block) {
         registerDecoratedBlockItem(name, block);
         return Registry.register(Registry.BLOCK, new Identifier(VanillaPlus.MOD_ID, name), block);

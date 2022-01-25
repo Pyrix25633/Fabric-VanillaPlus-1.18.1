@@ -60,5 +60,15 @@ public class ModFlammableBlocks {
         FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.DARK_OAK_TABLE, Encouragement, Flammability);
         FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.HOLLOW_DARK_OAK_LOG, Encouragement, Flammability);
         FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.STRIPPED_HOLLOW_DARK_OAK_LOG, Encouragement, Flammability);
+
+        //Vertical Slabs
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.OAK_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.SPRUCE_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.ACACIA_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.BIRCH_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.JUNGLE_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.DARK_OAK_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.CRIMSON_VERTICAL_SLAB, Encouragement, Flammability);
+        FlammableBlockRegistry.getDefaultInstance().add(ModBlocks.WARPED_VERTICAL_SLAB, Encouragement, Flammability);
     }
 }
