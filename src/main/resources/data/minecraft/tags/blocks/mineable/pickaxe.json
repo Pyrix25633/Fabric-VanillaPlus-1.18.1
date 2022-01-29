@@ -6,6 +6,11 @@
     "vanilla_plus:deep_ocean_brick_vertical_slab",
     "vanilla_plus:deep_ocean_brick_stairs",
     "vanilla_plus:deep_ocean_brick_wall",
-    "vanilla_plus:chiseled_deep_ocean_bricks"
+    "vanilla_plus:chiseled_deep_ocean_bricks",
+
+    "vanilla_plus:stone_vertical_slab",
+    "vanilla_plus:smooth_stone_vertical_slab",
+    "vanilla_plus:cobblestone_vertical_slab",
+    "vanilla_plus:mossy_cobblestone_vertical_slab"
   ]
 }

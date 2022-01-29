@@ -142,5 +142,61 @@
     "sounds": [
       "vanilla_plus:the_distance_between_us"
     ]
+  },
+  "pale_moon": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.pale_moon",
+    "sounds": [
+      "vanilla_plus:pale_moon"
+    ]
+  },
+  "misty": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.misty",
+    "sounds": [
+      "vanilla_plus:misty"
+    ]
+  },
+  "finding": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.finding",
+    "sounds": [
+      "vanilla_plus:finding"
+    ]
+  },
+  "decay": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.decay",
+    "sounds": [
+      "vanilla_plus:decay"
+    ]
+  },
+  "moving_on": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.moving_on",
+    "sounds": [
+      "vanilla_plus:moving_on"
+    ]
+  },
+  "my_person": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.my_person",
+    "sounds": [
+      "vanilla_plus:my_person"
+    ]
+  },
+  "i_love_you_baby": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.i_love_you_baby",
+    "sounds": [
+      "vanilla_plus:i_love_you_baby"
+    ]
+  },
+  "time": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.time",
+    "sounds": [
+      "vanilla_plus:time"
+    ]
   }
 }

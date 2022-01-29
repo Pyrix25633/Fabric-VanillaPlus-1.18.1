@@ -15,7 +15,8 @@ import net.pyrix25633.vanilla_plus.item.ModItemGroup;
 public class ModBlocks {
 
     static final float woodHardness = 2f, woodResistance = 2f,
-            deepOceanHardness = 1.5f, deepOceanResistance = 2.2f;
+            deepOceanHardness = 1.5f, deepOceanResistance = 2.2f,
+            stoneHardness = 1.5f, stoneResistance = 2.2f;
 
     // Oak
     public static final Block DECORATED_OAK_PLANKS = registerDecoratedBlock("decorated_oak_planks",
@@ -347,6 +348,26 @@ public class ModBlocks {
             new VerticalSlabBlock(FabricBlockSettings.of(Material.WOOD)
                     .strength(woodHardness, woodResistance)
                     .sounds(BlockSoundGroup.WOOD)));
+    public static final Block STONE_VERTICAL_SLAB = registerDecoratedBlock("stone_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.STONE)
+                    .strength(stoneHardness, stoneResistance)
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
+    public static final Block SMOOTH_STONE_VERTICAL_SLAB = registerDecoratedBlock("smooth_stone_vertical_slab",
+            new SmoothStoneVerticalSlabBlock(FabricBlockSettings.of(Material.STONE)
+                    .strength(stoneHardness, stoneResistance)
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
+    public static final Block COBBLESTONE_VERTICAL_SLAB = registerDecoratedBlock("cobblestone_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.STONE)
+                    .strength(stoneHardness, stoneResistance)
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
+    public static final Block MOSSY_COBBLESTONE_VERTICAL_SLAB = registerDecoratedBlock("mossy_cobblestone_vertical_slab",
+            new VerticalSlabBlock(FabricBlockSettings.of(Material.STONE)
+                    .strength(stoneHardness, stoneResistance)
+                    .sounds(BlockSoundGroup.STONE)
+                    .requiresTool()));
 
     private static Block registerDecoratedBlock(String name, Block block) {
         registerDecoratedBlockItem(name, block);

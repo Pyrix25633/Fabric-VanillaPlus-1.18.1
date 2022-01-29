@@ -88,6 +88,10 @@
   "block.vanilla_plus.dark_oak_vertical_slab": "Dark Oak Vertical Slab",
   "block.vanilla_plus.crimson_vertical_slab": "Crimson Vertical Slab",
   "block.vanilla_plus.warped_vertical_slab": "Warped Vertical Slab",
+  "block.vanilla_plus.stone_vertical_slab": "Stone Vertical Slab",
+  "block.vanilla_plus.smooth_stone_vertical_slab": "Smooth Stone Vertical Slab",
+  "block.vanilla_plus.cobblestone_vertical_slab": "Cobblestone Vertical Slab",
+  "block.vanilla_plus.mossy_cobblestone_vertical_slab": "Mossy Cobblestone Vertical Slab",
 
   "itemGroup.vanilla_plus.decorative_blocks": "Decorative Blocks",
   "itemGroup.vanilla_plus.music_discs": "Music Discs",
@@ -165,6 +169,30 @@
   "item.vanilla_plus.music_disc_yerba_mate.desc": "Ky Alasha - Yerba Mate",
   "subtitles.vanilla_plus.yerba_mate": "Ky Alasha - Yerba Mate",
 
+  "item.vanilla_plus.music_disc_pale_moon": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_pale_moon.desc": "Dr Dunfdiff x Allem Iversom - Pale Moon",
+  "subtitles.vanilla_plus.pale_moon": "Dr Dunfdiff x Allem Iversom - Pale Moon",
+
+  "item.vanilla_plus.music_disc_misty": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_misty.desc": "Epona - Misty",
+  "subtitles.vanilla_plus.misty": "Epona - Misty",
+
+  "item.vanilla_plus.music_disc_finding": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_finding.desc": "Chiccote's Beats - Finding",
+  "subtitles.vanilla_plus.finding": "Chiccote's Beats - Finding",
+
+  "item.vanilla_plus.music_disc_decay": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_decay.desc": "dontcry & Nokiaa - Decay",
+  "subtitles.vanilla_plus.decay": "dontcry & Nokiaa - Decay",
+
+  "item.vanilla_plus.music_disc_moving_on": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_moving_on.desc": "Elior - Moving On",
+  "subtitles.vanilla_plus.moving_on": "Elior - Moving On",
+
+  "item.vanilla_plus.music_disc_my_person": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_my_person.desc": "Kudo - My Person",
+  "subtitles.vanilla_plus.my_person": "Kudo - My Person",
+
   "item.vanilla_plus.music_disc_backyard_boy": "Pop Music Disc",
   "item.vanilla_plus.music_disc_backyard_boy.desc": "Claire Rosinkranz - Backyard Boy",
   "subtitles.vanilla_plus.backyard_boy": "Claire Rosinkranz - Backyard Boy",
@@ -180,6 +208,14 @@
   "item.vanilla_plus.music_disc_remember_when": "Pop Music Disc",
   "item.vanilla_plus.music_disc_remember_when.desc": "Wallows - Remember when",
   "subtitles.vanilla_plus.remember_when": "Wallows - Remember when",
+
+  "item.vanilla_plus.music_disc_i_love_you_baby": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_i_love_you_baby.desc": "Surf Mesa ft.Emilee - I love you baby",
+  "subtitles.vanilla_plus.i_love_you_baby": "Surf Mesa ft.Emilee - I love you baby",
+
+  "item.vanilla_plus.music_disc_time": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_time.desc": "Jaguar Sun - Time",
+  "subtitles.vanilla_plus.time": "Jaguar Sun - Time",
 
   "item.vanilla_plus.music_disc_i_wonder": "Rap Music Disc",
   "item.vanilla_plus.music_disc_i_wonder.desc": "Kanye West - I Wonder",

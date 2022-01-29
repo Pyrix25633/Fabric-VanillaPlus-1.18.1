@@ -255,6 +255,102 @@
           }
         ]
       }
+    },
+    "21": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_pale_moon"
+            ]
+          }
+        ]
+      }
+    },
+    "22": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_misty"
+            ]
+          }
+        ]
+      }
+    },
+    "23": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_finding"
+            ]
+          }
+        ]
+      }
+    },
+    "24": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_decay"
+            ]
+          }
+        ]
+      }
+    },
+    "25": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_moving_on"
+            ]
+          }
+        ]
+      }
+    },
+    "26": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_my_person"
+            ]
+          }
+        ]
+      }
+    },
+    "27": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_i_love_you_baby"
+            ]
+          }
+        ]
+      }
+    },
+    "28": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_time"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -317,6 +413,30 @@
     ],
     [
       "20"
+    ],
+    [
+      "21"
+    ],
+    [
+      "22"
+    ],
+    [
+      "23"
+    ],
+    [
+      "24"
+    ],
+    [
+      "25"
+    ],
+    [
+      "26"
+    ],
+    [
+      "27"
+    ],
+    [
+      "28"
     ]
   ]
 }
