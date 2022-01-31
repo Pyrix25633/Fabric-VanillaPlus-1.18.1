@@ -16,6 +16,18 @@
   },
   "parent": "vanilla_plus:why_vertical",
   "criteria": {
+    "deep_ocean_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:deep_ocean_brick_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
     "oak": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -186,6 +198,9 @@
     }
   },
   "requirements": [
+    [
+      "deep_ocean_brick"
+    ],
     [
       "oak"
     ],
