@@ -11,6 +11,10 @@
     "vanilla_plus:stone_vertical_slab",
     "vanilla_plus:smooth_stone_vertical_slab",
     "vanilla_plus:cobblestone_vertical_slab",
-    "vanilla_plus:mossy_cobblestone_vertical_slab"
+    "vanilla_plus:mossy_cobblestone_vertical_slab",
+    "vanilla_plus:stone_brick_vertical_slab",
+    "vanilla_plus:mossy_stone_brick_vertical_slab",
+
+    "vanilla_plus:green_lantern"
   ]
 }

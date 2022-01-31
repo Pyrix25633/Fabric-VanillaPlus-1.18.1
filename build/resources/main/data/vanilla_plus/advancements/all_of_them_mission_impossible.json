@@ -159,6 +159,30 @@
           }
         ]
       }
+    },
+    "stone_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:stone_brick_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "mossy_stone_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:mossy_stone_brick_vertical_slab"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -197,6 +221,12 @@
     ],
     [
       "mossy_cobblestone"
+    ],
+    [
+      "stone_brick"
+    ],
+    [
+      "mossy_stone_brick"
     ]
   ]
 }

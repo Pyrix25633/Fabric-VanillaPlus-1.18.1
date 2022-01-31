@@ -1,6 +1,8 @@
 package net.pyrix25633.vanilla_plus;
 
 import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
+import net.minecraft.client.render.RenderLayer;
 import net.pyrix25633.vanilla_plus.block.ModBlocks;
 import net.pyrix25633.vanilla_plus.item.ModItems;
 import net.pyrix25633.vanilla_plus.registries.ModFlammableBlocks;
@@ -24,6 +26,8 @@ public class VanillaPlusClient implements ClientModInitializer {
 		ModFlammableBlocks.registerFlammables();
 
 		ModSounds.registerSounds();
+
+		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.GREEN_LANTERN, RenderLayer.getCutout());
 
 		LOGGER.info("Hello Fabric world!");
 	}

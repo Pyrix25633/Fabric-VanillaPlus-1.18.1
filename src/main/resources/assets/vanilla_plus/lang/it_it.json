@@ -92,6 +92,10 @@
   "block.vanilla_plus.smooth_stone_vertical_slab": "Lastra di pietra liscia verticale",
   "block.vanilla_plus.cobblestone_vertical_slab": "Lastra di pietrisco verticale",
   "block.vanilla_plus.mossy_cobblestone_vertical_slab": "Lastra di pietrisco muschioso verticale",
+  "block.vanilla_plus.stone_brick_vertical_slab": "Lastra di mattoni di pietra verticale",
+  "block.vanilla_plus.mossy_stone_brick_vertical_slab": "Lastra di mattoni di pietra muschiosi verticale",
+
+  "block.vanilla_plus.green_lantern": "Lanterna verde",
 
   "itemGroup.vanilla_plus.decorative_blocks": "Blocchi decorativi",
   "itemGroup.vanilla_plus.music_discs": "Dischi musicali",
@@ -104,6 +108,8 @@
   "advancements.vanilla_plus.deep_down_into_the_ocean.description": "Ottieni un blocco di mattoni dell'oceano profondo",
   "advancements.vanilla_plus.why_vertical.title": "Perché verticale?",
   "advancements.vanilla_plus.why_vertical.description": "Ottieni una lastra di quercia verticale",
+  "advancements.vanilla_plus.true_color.title": "Colore vero!",
+  "advancements.vanilla_plus.true_color.description": "Ottieni una lanterna verde",
   "advancements.vanilla_plus.all_of_them.title": "Tutti loro",
   "advancements.vanilla_plus.all_of_them.description": "Colleziona tutte le assi decorate",
   "advancements.vanilla_plus.all_of_them_the_return.title": "Tutti loro: Il ritorno",

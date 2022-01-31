@@ -92,6 +92,10 @@
   "block.vanilla_plus.smooth_stone_vertical_slab": "Smooth Stone Vertical Slab",
   "block.vanilla_plus.cobblestone_vertical_slab": "Cobblestone Vertical Slab",
   "block.vanilla_plus.mossy_cobblestone_vertical_slab": "Mossy Cobblestone Vertical Slab",
+  "block.vanilla_plus.stone_brick_vertical_slab": "Stone Brick Vertical Slab",
+  "block.vanilla_plus.mossy_stone_brick_vertical_slab": "Mossy Stone Brick Vertical Slab",
+
+  "block.vanilla_plus.green_lantern": "Green Lantern",
 
   "itemGroup.vanilla_plus.decorative_blocks": "Decorative Blocks",
   "itemGroup.vanilla_plus.music_discs": "Music Discs",
@@ -104,6 +108,8 @@
   "advancements.vanilla_plus.deep_down_into_the_ocean.description": "Obtain a Deep Ocean Bricks block",
   "advancements.vanilla_plus.why_vertical.title": "Why Vertical?",
   "advancements.vanilla_plus.why_vertical.description": "Obtain an Oak Vertical Slab",
+  "advancements.vanilla_plus.true_color.title": "True Color!",
+  "advancements.vanilla_plus.true_color.description": "Obtain a Green Lantern",
   "advancements.vanilla_plus.all_of_them.title": "All Of Them",
   "advancements.vanilla_plus.all_of_them.description": "Collect all the Decorated Planks blocks",
   "advancements.vanilla_plus.all_of_them_the_return.title": "All Of Them: The Return",

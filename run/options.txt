@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","Fabric Mods"]
+resourcePacks:["vanilla","Fabric Mods","file/Pyrix_rp_1.10"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
