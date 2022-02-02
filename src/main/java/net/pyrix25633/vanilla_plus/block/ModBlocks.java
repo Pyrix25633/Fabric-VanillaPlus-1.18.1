@@ -390,6 +390,20 @@ public class ModBlocks {
                     .luminance(10)
                     .requiresTool()
                     .nonOpaque()));
+    public static final Block YELLOW_LANTERN = registerDecorativeBlock("yellow_lantern",
+            new LanternBlock(FabricBlockSettings.of(Material.METAL)
+                    .strength(3.5f)
+                    .sounds(BlockSoundGroup.LANTERN)
+                    .luminance(10)
+                    .requiresTool()
+                    .nonOpaque()));
+    public static final Block RED_LANTERN = registerDecorativeBlock("red_lantern",
+            new LanternBlock(FabricBlockSettings.of(Material.METAL)
+                    .strength(3.5f)
+                    .sounds(BlockSoundGroup.LANTERN)
+                    .luminance(10)
+                    .requiresTool()
+                    .nonOpaque()));
 
     private static Block registerDecorativeBlock(String name, Block block) {
         registerDecorativeBlockItem(name, block);

@@ -15,6 +15,8 @@
     "vanilla_plus:stone_brick_vertical_slab",
     "vanilla_plus:mossy_stone_brick_vertical_slab",
 
-    "vanilla_plus:green_lantern"
+    "vanilla_plus:green_lantern",
+    "vanilla_plus:yellow_lantern",
+    "vanilla_plus:red_lantern"
   ]
 }

@@ -28,6 +28,8 @@ public class VanillaPlusClient implements ClientModInitializer {
 		ModSounds.registerSounds();
 
 		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.GREEN_LANTERN, RenderLayer.getCutout());
+		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.YELLOW_LANTERN, RenderLayer.getCutout());
+		BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.RED_LANTERN, RenderLayer.getCutout());
 
 		LOGGER.info("Hello Fabric world!");
 	}
