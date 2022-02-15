@@ -267,6 +267,78 @@
           }
         ]
       }
+    },
+    "sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:sandstone_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "cut_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:cut_sandstone_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "smooth_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:smooth_sandstone_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "red_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:red_sandstone_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "cut_red_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:cut_red_sandstone_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "smooth_red_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:smooth_red_sandstone_vertical_slab"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -332,6 +404,24 @@
     ],
     [
       "polished_granite"
+    ],
+    [
+      "sandstone"
+    ],
+    [
+      "cut_sandstone"
+    ],
+    [
+      "smooth_sandstone"
+    ],
+    [
+      "red_sandstone"
+    ],
+    [
+      "cut_red_sandstone"
+    ],
+    [
+      "smooth_red_sandstone"
     ]
   ]
 }

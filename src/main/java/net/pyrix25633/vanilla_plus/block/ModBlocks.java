@@ -3,11 +3,8 @@ package net.pyrix25633.vanilla_plus.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
-import net.minecraft.client.particle.ParticleTextureSheet;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
-import net.minecraft.particle.ParticleEffect;
-import net.minecraft.particle.ParticleTypes;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
@@ -223,6 +220,18 @@ public class ModBlocks {
     public static final Block GRANITE_VERTICAL_SLAB = registerDecorativeBlock("granite_vertical_slab",
             new VerticalSlabBlock(stoneSettings));
     public static final Block POLISHED_GRANITE_VERTICAL_SLAB = registerDecorativeBlock("polished_granite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("sandstone_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block CUT_SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("cut_sandstone_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block SMOOTH_SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("smooth_sandstone_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block RED_SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("red_sandstone_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block CUT_RED_SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("cut_red_sandstone_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block SMOOTH_RED_SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("smooth_red_sandstone_vertical_slab",
             new VerticalSlabBlock(stoneSettings));
 
     //Lanterns

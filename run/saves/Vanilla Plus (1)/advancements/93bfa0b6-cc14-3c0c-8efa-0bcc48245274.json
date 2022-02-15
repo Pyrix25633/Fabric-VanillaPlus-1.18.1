@@ -1,7 +1,97 @@
 {
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_lots_of_items": "2022-01-05 13:39:12 +0100"
+      "has_smooth_sandstone": "2022-02-15 16:25:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-02-15 16:25:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-02-15 16:25:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2022-02-15 16:25:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2022-02-15 16:25:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-02-15 16:25:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-02-15 16:25:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
     },
     "done": true
   },
@@ -11,6 +101,170 @@
       "minecraft:plains": "2022-01-04 19:35:56 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:all_of_them_mission_impossible": {
+    "criteria": {
+      "polished_granite": "2022-02-15 16:27:10 +0100",
+      "red_sandstone": "2022-02-15 16:24:45 +0100",
+      "smooth_red_sandstone": "2022-02-15 16:24:45 +0100",
+      "mossy_stone_brick": "2022-02-15 16:27:00 +0100",
+      "polished_diorite": "2022-02-15 16:27:08 +0100",
+      "mossy_cobblestone": "2022-02-15 16:26:58 +0100",
+      "sandstone": "2022-02-15 16:24:45 +0100",
+      "cut_sandstone": "2022-02-15 16:24:45 +0100",
+      "smooth_sandstone": "2022-02-15 16:24:45 +0100",
+      "crimson": "2022-02-15 16:26:47 +0100",
+      "cobblestone": "2022-02-15 16:26:57 +0100",
+      "oak": "2022-02-15 16:26:40 +0100",
+      "stone_brick": "2022-02-15 16:26:59 +0100",
+      "dark_oak": "2022-02-15 16:26:46 +0100",
+      "andesite": "2022-02-15 16:27:02 +0100",
+      "spruce": "2022-02-15 16:26:41 +0100",
+      "diorite": "2022-02-15 16:27:04 +0100",
+      "birch": "2022-02-15 16:26:42 +0100",
+      "stone": "2022-02-15 16:26:54 +0100",
+      "granite": "2022-02-15 16:27:09 +0100",
+      "acacia": "2022-02-15 16:26:45 +0100",
+      "warped": "2022-02-15 16:26:48 +0100",
+      "jungle": "2022-02-15 16:26:44 +0100",
+      "deep_ocean_brick": "2022-02-15 16:28:16 +0100",
+      "smooth_stone": "2022-02-15 16:26:56 +0100",
+      "polished_andesite": "2022-02-15 16:27:03 +0100",
+      "cut_red_sandstone": "2022-02-15 16:24:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-01-05 13:39:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_cut_red_sandstone": "2022-02-15 16:25:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-02-15 16:25:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "vanilla_plus:why_vertical": {
+    "criteria": {
+      "requirement": "2022-02-15 16:26:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-02-15 16:25:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2022-02-15 16:25:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-02-15 16:25:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2022-02-15 16:25:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2022-02-15 16:25:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2022-02-15 16:25:45 +0100"
+    },
+    "done": true
   },
   "DataVersion": 2865
 }
