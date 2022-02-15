@@ -195,6 +195,78 @@
           }
         ]
       }
+    },
+    "andesite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:andesite_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "polished_andesite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:polished_andesite_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "diorite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:diorite_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "polished_diorite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:polished_diorite_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "granite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:granite_vertical_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "polished_granite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:polished_granite_vertical_slab"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -242,6 +314,24 @@
     ],
     [
       "mossy_stone_brick"
+    ],
+    [
+      "andesite"
+    ],
+    [
+      "polished_andesite"
+    ],
+    [
+      "diorite"
+    ],
+    [
+      "polished_diorite"
+    ],
+    [
+      "granite"
+    ],
+    [
+      "polished_granite"
     ]
   ]
 }

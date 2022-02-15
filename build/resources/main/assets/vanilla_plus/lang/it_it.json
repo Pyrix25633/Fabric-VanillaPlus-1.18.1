@@ -94,6 +94,12 @@
   "block.vanilla_plus.mossy_cobblestone_vertical_slab": "Lastra di pietrisco muschioso verticale",
   "block.vanilla_plus.stone_brick_vertical_slab": "Lastra di mattoni di pietra verticale",
   "block.vanilla_plus.mossy_stone_brick_vertical_slab": "Lastra di mattoni di pietra muschiosi verticale",
+  "block.vanilla_plus.andesite_vertical_slab": "Lastra di andesite verticale",
+  "block.vanilla_plus.polished_andesite_vertical_slab": "Lastra di andesite levigata verticale",
+  "block.vanilla_plus.diorite_vertical_slab": "Lastra di diorite verticale",
+  "block.vanilla_plus.polished_diorite_vertical_slab": "Lastra di diorite levigata verticale",
+  "block.vanilla_plus.granite_vertical_slab": "Lastra di granito verticale",
+  "block.vanilla_plus.polished_granite_vertical_slab": "Lastra di granito levigato verticale",
 
   "block.vanilla_plus.green_lantern": "Lanterna verde",
   "block.vanilla_plus.yellow_lantern": "Lanterna gialla",

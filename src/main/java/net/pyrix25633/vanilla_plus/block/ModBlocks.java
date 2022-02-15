@@ -212,6 +212,18 @@ public class ModBlocks {
             new VerticalSlabBlock(stoneSettings));
     public static final Block MOSSY_STONE_BRICK_VERTICAL_SLAB = registerDecorativeBlock("mossy_stone_brick_vertical_slab",
             new VerticalSlabBlock(stoneSettings));
+    public static final Block ANDESITE_VERTICAL_SLAB = registerDecorativeBlock("andesite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block POLISHED_ANDESITE_VERTICAL_SLAB = registerDecorativeBlock("polished_andesite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block DIORITE_VERTICAL_SLAB = registerDecorativeBlock("diorite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block POLISHED_DIORITE_VERTICAL_SLAB = registerDecorativeBlock("polished_diorite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block GRANITE_VERTICAL_SLAB = registerDecorativeBlock("granite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
+    public static final Block POLISHED_GRANITE_VERTICAL_SLAB = registerDecorativeBlock("polished_granite_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
 
     //Lanterns
     public static final Block GREEN_LANTERN = registerDecorativeBlock("green_lantern",
