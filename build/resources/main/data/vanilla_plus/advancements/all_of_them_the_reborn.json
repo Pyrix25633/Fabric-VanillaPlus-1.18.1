@@ -351,6 +351,78 @@
           }
         ]
       }
+    },
+    "29": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_no_worries"
+            ]
+          }
+        ]
+      }
+    },
+    "30": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_wistful"
+            ]
+          }
+        ]
+      }
+    },
+    "31": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_alone_on_d_beach"
+            ]
+          }
+        ]
+      }
+    },
+    "32": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_not_me"
+            ]
+          }
+        ]
+      }
+    },
+    "33": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_panic_at_the_disco"
+            ]
+          }
+        ]
+      }
+    },
+    "34": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:music_disc_dance_monkey"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -437,6 +509,24 @@
     ],
     [
       "28"
+    ],
+    [
+      "29"
+    ],
+    [
+      "30"
+    ],
+    [
+      "31"
+    ],
+    [
+      "32"
+    ],
+    [
+      "33"
+    ],
+    [
+      "34"
     ]
   ]
 }

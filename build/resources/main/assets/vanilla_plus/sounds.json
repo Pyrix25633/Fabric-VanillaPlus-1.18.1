@@ -198,5 +198,47 @@
     "sounds": [
       "vanilla_plus:time"
     ]
+  },
+  "no_worries": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.no_worries",
+    "sounds": [
+      "vanilla_plus:no_worries"
+    ]
+  },
+  "wistful": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.wistful",
+    "sounds": [
+      "vanilla_plus:wistful"
+    ]
+  },
+  "alone_on_d_beach": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.alone_on_d_beach",
+    "sounds": [
+      "vanilla_plus:alone_on_d_beach"
+    ]
+  },
+  "not_me": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.not_me",
+    "sounds": [
+      "vanilla_plus:not_me"
+    ]
+  },
+  "panic_at_the_disco": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.panic_at_the_disco",
+    "sounds": [
+      "vanilla_plus:panic_at_the_disco"
+    ]
+  },
+  "dance_monkey": {
+    "category": "record",
+    "subtitle": "subtitles.vanilla_plus.dance_monkey",
+    "sounds": [
+      "vanilla_plus:dance_monkey"
+    ]
   }
 }

@@ -219,6 +219,23 @@
   "item.vanilla_plus.music_disc_my_person.desc": "Kudo - My Person",
   "subtitles.vanilla_plus.my_person": "Kudo - My Person",
 
+  "item.vanilla_plus.music_disc_no_worries": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_no_worries.desc": "Nom - No Worries",
+  "subtitles.vanilla_plus.no_worries": "Nom - No Worries",
+
+  "item.vanilla_plus.music_disc_wistful": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_wistful.desc": "Nom - Wistful",
+  "subtitles.vanilla_plus.wistful": "Nom - Wistful",
+
+  "item.vanilla_plus.music_disc_alone_on_d_beach": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_alone_on_d_beach.desc": "0_core - Alone on d beach",
+  "subtitles.vanilla_plus.alone_on_d_beach": "0_core - Alone on d beach",
+
+  "item.vanilla_plus.music_disc_not_me": "Lofi Music Disc",
+  "item.vanilla_plus.music_disc_not_me.desc": "0_core - Not me",
+  "subtitles.vanilla_plus.not_me": "0_core - Not me",
+
+
   "item.vanilla_plus.music_disc_backyard_boy": "Pop Music Disc",
   "item.vanilla_plus.music_disc_backyard_boy.desc": "Claire Rosinkranz - Backyard Boy",
   "subtitles.vanilla_plus.backyard_boy": "Claire Rosinkranz - Backyard Boy",
@@ -242,6 +259,14 @@
   "item.vanilla_plus.music_disc_time": "Pop Music Disc",
   "item.vanilla_plus.music_disc_time.desc": "Jaguar Sun - Time",
   "subtitles.vanilla_plus.time": "Jaguar Sun - Time",
+
+  "item.vanilla_plus.music_disc_panic_at_the_disco": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_panic_at_the_disco.desc": "High Hopes - Panic! At The Disco",
+  "subtitles.vanilla_plus.panic_at_the_disco": "High Hopes - Panic! At The Disco",
+
+  "item.vanilla_plus.music_disc_dance_monkey": "Pop Music Disc",
+  "item.vanilla_plus.music_disc_dance_monkey.desc": "Tones and I - Dance Monkey",
+  "subtitles.vanilla_plus.dance_monkey": "Tones and I - Dance Monkey",
 
   "item.vanilla_plus.music_disc_i_wonder": "Rap Music Disc",
   "item.vanilla_plus.music_disc_i_wonder.desc": "Kanye West - I Wonder",
