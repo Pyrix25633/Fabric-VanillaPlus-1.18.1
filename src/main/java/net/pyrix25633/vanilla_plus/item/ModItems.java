@@ -93,6 +93,18 @@ public class ModItems {
     public static final Item MUSIC_DISC_MY_PERSON = registerItem("music_disc_my_person",
             new ModMusicDiscItem(4, ModSounds.MY_PERSON, new FabricItemSettings()
                     .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+    public static final Item MUSIC_DISC_NO_WORRIES = registerItem("music_disc_no_worries",
+            new ModMusicDiscItem(4, ModSounds.NO_WORRIES, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+    public static final Item MUSIC_DISC_WISTFUL = registerItem("music_disc_wistful",
+            new ModMusicDiscItem(4, ModSounds.WISTFUL, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+    public static final Item MUSIC_DISC_ALONE_ON_D_BEACH = registerItem("music_disc_alone_on_d_beach",
+            new ModMusicDiscItem(4, ModSounds.ALONE_ON_D_BEACH, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+    public static final Item MUSIC_DISC_NOT_ME = registerItem("music_disc_not_me",
+            new ModMusicDiscItem(4, ModSounds.NOT_ME, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
 
     //Pop
     public static final Item MUSIC_DISC_BACKYARD_BOY = registerItem("music_disc_backyard_boy",
@@ -112,6 +124,12 @@ public class ModItems {
                     .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
     public static final Item MUSIC_DISC_TIME = registerItem("music_disc_time",
             new ModMusicDiscItem(4, ModSounds.TIME, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+    public static final Item MUSIC_DISC_PANIC_AT_THE_DISCO = registerItem("music_disc_panic_at_the_disco",
+            new ModMusicDiscItem(4, ModSounds.PANIC_AT_THE_DISCO, new FabricItemSettings()
+                    .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
+    public static final Item MUSIC_DISC_DANCE_MONKEY = registerItem("music_disc_dance_monkey",
+            new ModMusicDiscItem(4, ModSounds.DANCE_MONKEY, new FabricItemSettings()
                     .group(ModItemGroup.MUSIC_DISCS).maxCount(1)));
 
     //Rap

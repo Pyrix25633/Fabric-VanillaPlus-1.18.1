@@ -25,6 +25,10 @@ public class ModSounds {
     public static SoundEvent DECAY = registerSoundEvent("decay");
     public static SoundEvent MOVING_ON = registerSoundEvent("moving_on");
     public static SoundEvent MY_PERSON = registerSoundEvent("my_person");
+    public static SoundEvent NO_WORRIES = registerSoundEvent("no_worries");
+    public static SoundEvent WISTFUL = registerSoundEvent("wistful");
+    public static SoundEvent ALONE_ON_D_BEACH = registerSoundEvent("alone_on_d_beach");
+    public static SoundEvent NOT_ME = registerSoundEvent("not_me");
 
     //Pop
     public static SoundEvent BACKYARD_BOY = registerSoundEvent("backyard_boy");
@@ -33,6 +37,8 @@ public class ModSounds {
     public static SoundEvent REMEMBER_WHEN = registerSoundEvent("remember_when");
     public static SoundEvent I_LOVE_YOU_BABY = registerSoundEvent("i_love_you_baby");
     public static SoundEvent TIME = registerSoundEvent("time");
+    public static SoundEvent PANIC_AT_THE_DISCO = registerSoundEvent("panic_at_the_disco");
+    public static SoundEvent DANCE_MONKEY = registerSoundEvent("dance_monkey");
 
     //Rap
     public static SoundEvent I_WONDER = registerSoundEvent("i_wonder");
