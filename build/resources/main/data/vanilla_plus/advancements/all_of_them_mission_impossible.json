@@ -339,6 +339,18 @@
           }
         ]
       }
+    },
+    "brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vanilla_plus:brick_vertical_slab"
+            ]
+          }
+        ]
+      }
     }
   },
   "requirements": [
@@ -422,6 +434,9 @@
     ],
     [
       "smooth_red_sandstone"
+    ],
+    [
+      "brick"
     ]
   ]
 }
