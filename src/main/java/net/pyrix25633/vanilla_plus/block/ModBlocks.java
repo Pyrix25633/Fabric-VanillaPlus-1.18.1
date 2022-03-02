@@ -233,6 +233,8 @@ public class ModBlocks {
             new VerticalSlabBlock(stoneSettings));
     public static final Block SMOOTH_RED_SANDSTONE_VERTICAL_SLAB = registerDecorativeBlock("smooth_red_sandstone_vertical_slab",
             new VerticalSlabBlock(stoneSettings));
+    public static final Block BRICK_VERTICAL_SLAB = registerDecorativeBlock("brick_vertical_slab",
+            new VerticalSlabBlock(stoneSettings));
 
     //Lanterns
     public static final Block GREEN_LANTERN = registerDecorativeBlock("green_lantern",
